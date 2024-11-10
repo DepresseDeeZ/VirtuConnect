@@ -1,6 +1,6 @@
 # VirtuConnect – Video Conferencing App 
-
-[Live Demo](https://virtu-connect-ivory.vercel.app/)
+## LIVE DEMO
+[VirtuConnect](https://virtu-connect-ivory.vercel.app/)
 
 ## Overview
 **VirtuConnect** is a highly scalable and secure video conferencing application built with **Next.js** and **TypeScript**, designed to replicate and enhance the functionality of popular platforms like Zoom. With features such as real-time video conferencing, screen sharing, meeting scheduling, and virtual rooms, VirtuConnect delivers a seamless and professional virtual meeting experience. The app is fully responsive, optimized for both desktop and mobile devices, and integrated with modern technologies for superior performance.
@@ -65,3 +65,7 @@ Follow these steps to get **VirtuConnect** up and running locally:
 ### 1. Clone the repository
 ```bash
 https://github.com/DepresseDeeZ/VirtuConnect
+```
+&copy; 2024 Your Name. All rights reserved.  
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
