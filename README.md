@@ -66,6 +66,4 @@ Follow these steps to get **VirtuConnect** up and running locally:
 ```bash
 https://github.com/DepresseDeeZ/VirtuConnect
 ```
-&copy; 2024 Your Name. All rights reserved.  
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-
+&copy; 2024 VirtuConnect
